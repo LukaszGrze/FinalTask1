@@ -9,3 +9,4 @@ Fill out the New address form - that should be fished from the Examples table in
 Check whether the data in the newly added address is correct
 Remove the aforementioned address hitting the delete button
 Check whether the address was properly deleted.
+ 
